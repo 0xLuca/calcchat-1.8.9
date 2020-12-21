@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "CalcChat",
+  "description": "Dieses Addon f\u00FCgt die M\u00F6glichkeit hinzu, \u00FCber simple Tastenkombinationen Berechnungen im Chat durchzuf\u00FChren.",
+  "mainClass": "at.luca100.calcchat.CalcChat",
+  "version": 1,
+  "author": "Luca100",
+  "category": 2,
+  "icon": "https://i.imgur.com/tsdq33g.jpeg"
+}
